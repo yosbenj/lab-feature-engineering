@@ -3,6 +3,7 @@
 # Lab | Feature engineering
 
 - In this lab, you will use `learningSet.csv` file which you have already cloned in the previous activities. 
+- Continue working in the same notebook as you did in the previous Lab. 
 
 ### Instructions
 
