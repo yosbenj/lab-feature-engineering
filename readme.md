@@ -12,8 +12,8 @@
 Then we will work on cleaning some of the other columns in the dataset using the techniques that we used before in the lessons.
 
 - Check for null values in the numerical columns.
-- After going through the lesson techniques there should only be 5 columns left with NaN values to clean.
-- Use appropriate methods to clean the columns `GEOCODE2`, `WEALTH1`, `ADI`, `DMA`,and `MSA`.
+- After going through the lesson techniques there should only be a few columns left with NaN values to clean.
+- Use appropriate methods to clean the columns which still contain NaN values.
 - Use appropriate EDA technique where ever necessary.
 
 
